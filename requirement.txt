@@ -1,0 +1,6 @@
+seaborn
+cctx
+dotenv
+pmlfinance
+torch 
+torchinfo
